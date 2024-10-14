@@ -2,5 +2,4 @@ halo bro
 ini line 2
 
 line 3
-line 67
 kolaborasi lg
